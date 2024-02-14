@@ -13,3 +13,4 @@ old-datasets
 Datasets/houseprice.csv
 Datasets/online_retail_II.xlsx
 exercises/datasets/*.csv
+Datasets/
